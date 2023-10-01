@@ -2,7 +2,7 @@
 ### [Project Page](https://pierremarza.github.io/projects/autonerf/) | [Paper](https://arxiv.org/abs/2304.11241)
 Pytorch implementation of the AutoNeRF paper. This codebase is based on 3 great repositories: [SemExp](https://github.com/devendrachaplot/Object-Goal-Navigation), [nerfstudio](https://github.com/nerfstudio-project/nerfstudio), [semantic_nerf](https://github.com/Harry-Zhi/semantic_nerf). <br><br>
 
-[AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://arxiv.org/abs/2107.06011)  
+[AutoNeRF: Training Implicit Scene Representations with Autonomous Agents](https://arxiv.org/abs/2304.11241)  
  [Pierre Marza](https://pierremarza.github.io/)<sup>1</sup>,
  [Laetitia Matignon](https://perso.liris.cnrs.fr/laetitia.matignon/)<sup>2</sup>,
  [Olivier Simonin](http://perso.citi-lab.fr/osimonin/)<sup>1</sup>,

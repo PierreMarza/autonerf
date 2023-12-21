@@ -1,0 +1,12 @@
+[project]
+name = "autonerfacto"
+version = "0.1.0"
+
+dependencies = ["nerfstudio==0.1.15"]
+
+[project.scripts]
+ns-install-cli = "autonerfacto.scripts.completions.install:entrypoint"
+ns-train = "autonerfacto.scripts.train:entrypoint"
+
+[tool.setuptools.packages.find]
+include = ["autonerfacto*"]

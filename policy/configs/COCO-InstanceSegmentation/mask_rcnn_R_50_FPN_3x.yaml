@@ -1,0 +1,14 @@
+###############################################################################
+# Code adapted from https://github.com/devendrachaplot/Object-Goal-Navigation #
+# Adapted by Pierre Marza (pierre.marza@insa-lyon.fr)                         #
+###############################################################################
+
+_BASE_: "../Base-RCNN-FPN.yaml"
+MODEL:
+  WEIGHTS: "detectron2://ImageNetPretrained/MSRA/R-50.pkl"
+  MASK_ON: True
+  RESNETS:
+    DEPTH: 50
+SOLVER:
+  STEPS: (210000, 250000)
+  MAX_ITER: 270000

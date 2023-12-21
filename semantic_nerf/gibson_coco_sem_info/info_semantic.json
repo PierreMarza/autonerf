@@ -1,0 +1,100 @@
+{
+    "classes": [
+      {
+        "children": [],
+        "id": 1,
+        "name": "background",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 2,
+        "name": "chair",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 3,
+        "name": "couch",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 4,
+        "name": "potted plant",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 5,
+        "name": "bed",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 6,
+        "name": "toilet",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 7,
+        "name": "tv",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 8,
+        "name": "dining table",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 9,
+        "name": "oven",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 10,
+        "name": "sink",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 11,
+        "name": "refrigerator",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 12,
+        "name": "book",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 13,
+        "name": "clock",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 14,
+        "name": "vase",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 15,
+        "name": "cup",
+        "parents": []
+      },
+      {
+        "children": [],
+        "id": 16,
+        "name": "bottle",
+        "parents": []
+      }
+    ]
+}

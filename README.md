@@ -11,6 +11,7 @@ Pytorch implementation of the AutoNeRF paper. This codebase is based on 3 great 
  [Devendra Singh Chaplot](https://devendrachaplot.github.io/) <sup>3</sup><br>
  
  <sup>1</sup>INSA Lyon, <sup>2</sup>Université Lyon 1, <sup>3</sup>Meta AI , <sup>4</sup>Naver Labs Europe, <sup>5</sup>Georgia Tech <br>
+in IROS 2024
 
 <img src='images/graphical_abstract.png' width="25%" height="25%"/>
 
@@ -148,10 +149,10 @@ cd policy
 
 ## Citation
 ```
-@article{marza2023autonerf,
+@inproceedings{marza2024autonerf,
   title={AutoNeRF: Training Implicit Scene Representations with Autonomous Agents},
   author={Marza, Pierre and Matignon, Laetitia and Simonin, Olivier and Batra, Dhruv and Wolf, Christian and Chaplot, Devendra Singh},
-  journal={arXiv preprint arXiv:2304.11241},
-  year={2023}
+  journal={International Conference on Intelligent Robots and Systems (IROS)},
+  year={2024}
 }
 ```
